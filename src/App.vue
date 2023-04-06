@@ -1,10 +1,10 @@
 <script>
-import AppHeader from "@/components/AppHeader.vue";
-export default {
-  components: {
-    AppHeader,
-  },
-};
+  import AppHeader from "@/components/AppHeader.vue";
+  export default {
+    components: {
+      AppHeader,
+    },
+  };
 </script>
 
 <template>
@@ -22,4 +22,3 @@ export default {
   margin: auto;
 }
 </style>
-
